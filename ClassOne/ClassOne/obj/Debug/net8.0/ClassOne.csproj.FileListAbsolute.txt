@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\bin\Debug\net8.0\ClassOne.exe
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\bin\Debug\net8.0\ClassOne.deps.json
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\bin\Debug\net8.0\ClassOne.runtimeconfig.json
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\bin\Debug\net8.0\ClassOne.dll
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\bin\Debug\net8.0\ClassOne.pdb
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.AssemblyInfo.cs
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.sourcelink.json
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.dll
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\obj\Debug\net8.0\refint\ClassOne.dll
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.pdb
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.genruntimeconfig.cache
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassOne\ClassOne\obj\Debug\net8.0\ref\ClassOne.dll
