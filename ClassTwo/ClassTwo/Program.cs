@@ -29,7 +29,7 @@
 
             Console.WriteLine($"Soma: {soma}");
             Console.WriteLine($"Multiplicação: {multiplicacao}");
-            Console.WriteLine($"Divisão: {divisao}");
+            Console.WriteLine($"Divisão: {divisao.ToString("F4")}");
             Console.WriteLine($"Subtração: {subtracao}");
             Console.WriteLine($"Resto: {resto}");
             Console.WriteLine($"Operação: {operacao.ToString("f2")}");
@@ -47,8 +47,8 @@
                 double baskara2 = (-b - Math.Sqrt(delta)) / (2.0 * a);
                 Console.WriteLine("____________________Báskara____________________");
                 Console.WriteLine($"Delta: {delta}");
-                Console.WriteLine($"Raiz 1: {baskara1.ToString("F2")}");
-                Console.WriteLine($"Raiz 2: {baskara2.ToString("F2")}");
+                Console.WriteLine($"Raiz 1: {baskara1.ToString("F4")}");
+                Console.WriteLine($"Raiz 2: {baskara2.ToString("F4")}");
             }
             else
             {
