@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\bin\Debug\net8.0\ClassTwo.exe
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\bin\Debug\net8.0\ClassTwo.deps.json
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\bin\Debug\net8.0\ClassTwo.runtimeconfig.json
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\bin\Debug\net8.0\ClassTwo.dll
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\bin\Debug\net8.0\ClassTwo.pdb
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\obj\Debug\net8.0\ClassTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\obj\Debug\net8.0\ClassTwo.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\obj\Debug\net8.0\ClassTwo.AssemblyInfo.cs
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\obj\Debug\net8.0\ClassTwo.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\obj\Debug\net8.0\ClassTwo.sourcelink.json
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\obj\Debug\net8.0\ClassTwo.dll
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\obj\Debug\net8.0\refint\ClassTwo.dll
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\obj\Debug\net8.0\ClassTwo.pdb
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\obj\Debug\net8.0\ClassTwo.genruntimeconfig.cache
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassTwo\ClassTwo\obj\Debug\net8.0\ref\ClassTwo.dll
