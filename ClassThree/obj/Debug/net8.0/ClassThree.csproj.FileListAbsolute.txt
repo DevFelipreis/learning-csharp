@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\bin\Debug\net8.0\ClassThree.exe
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\bin\Debug\net8.0\ClassThree.deps.json
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\bin\Debug\net8.0\ClassThree.runtimeconfig.json
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\bin\Debug\net8.0\ClassThree.dll
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\bin\Debug\net8.0\ClassThree.pdb
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\obj\Debug\net8.0\ClassThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\obj\Debug\net8.0\ClassThree.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\obj\Debug\net8.0\ClassThree.AssemblyInfo.cs
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\obj\Debug\net8.0\ClassThree.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\obj\Debug\net8.0\ClassThree.sourcelink.json
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\obj\Debug\net8.0\ClassThree.dll
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\obj\Debug\net8.0\refint\ClassThree.dll
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\obj\Debug\net8.0\ClassThree.pdb
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\obj\Debug\net8.0\ClassThree.genruntimeconfig.cache
+C:\Users\felip\Documents\ESTUDOS\Programação\C#\learning-csharp\ClassThree\obj\Debug\net8.0\ref\ClassThree.dll
